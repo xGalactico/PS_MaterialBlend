@@ -3,4 +3,4 @@ PS Material Blend within the Unity HDRP Shader Graph. You can leverage this mate
 
 Thanks for your support, I hope you find this shader useful. Happy painting!
 
-Also available in [Gumroad](pxdrosilva.gumroad.com)
+Also available in [Gumroad](https://pxdrosilva.gumroad.com/l/psmaterialblend)
