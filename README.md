@@ -6,4 +6,4 @@ PS Material Blend within the Unity HDRP Shader Graph. You can leverage this mate
 
 Mask Map (R) Metalic (G) AO (B) Displacement (A) Smoothness
 
-Product page at the [Gumroad](https://pxdrosilva.gumroad.com/l/psmaterialblend)
+Product page at [Gumroad](https://pxdrosilva.gumroad.com/l/psmaterialblend)
