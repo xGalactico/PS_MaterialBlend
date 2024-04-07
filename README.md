@@ -13,4 +13,4 @@ Types of textures
 - Normal
 - Mask Map (R) Metalic (G) Occlusion (B) Displacement (A) Smoothness
 
-Product page at [Gumroad](https://pxdrosilva.gumroad.com/l/psmaterialblend)
+Product page at [Gumroad](https://pxdro.gumroad.com/l/psmaterialblend)
